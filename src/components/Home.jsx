@@ -27,7 +27,7 @@ const Home = () => {
           </a>
         </div>
 
-        <a href="/public/Aditi_Resume.pdf" target="_blank" className="resume-btn">
+        <a href="https://drive.google.com/file/d/1afwEzxK9imoivhO5AwS6VjRqS4oH_n0w/view?usp=sharing" target="_blank" className="resume-btn">
           Resume
         </a>
       </div>
